@@ -11,5 +11,5 @@
 
 
 
-https://github.com/dongridongil/reactnative_weatherApp/assets/108976641/5c9ab07f-87e1-433f-86f5-96b1b9c9702a
 
+![Uploading weatherTest.gif…]()
