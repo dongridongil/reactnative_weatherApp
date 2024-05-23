@@ -6,4 +6,4 @@
 
 ## 실제 앱 화면
 
-<img src="https://github.com/dongridongil/reactnative_weatherApp/assets/108976641/9a6a3702-f0a6-4774-a897-f50875226c8c" width="500" height="500" />
+<img src="https://github.com/dongridongil/reactnative_weatherApp/assets/108976641/9a6a3702-f0a6-4774-a897-f50875226c8c" width="400" height="800" />
