@@ -12,4 +12,4 @@
 
 
 
-[Uploading weatherTest.gif…]()
+![weatherTest](https://github.com/dongridongil/reactnative_weatherApp/assets/108976641/9a6a3702-f0a6-4774-a897-f50875226c8c)
